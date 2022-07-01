@@ -1,0 +1,15 @@
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/sakorl/test2/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/assets/fonts/KhmerOSsiemreap.ttf
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/assets/images/img.png
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/assets/images/spiderman.webp
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+C:/Users/sakorl/test2/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf

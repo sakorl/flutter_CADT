@@ -1,0 +1,10 @@
+^C:\USERS\SAKORL\TEST2\BUILD\WINDOWS\CMAKEFILES\1735DDEE12D78162E29E14DE5E6F9348\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
