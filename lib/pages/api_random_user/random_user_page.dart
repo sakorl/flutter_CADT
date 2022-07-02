@@ -69,4 +69,3 @@ class _RandomUserPageState extends State<RandomUserPage> {
 
   }
 }
-
