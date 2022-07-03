@@ -17,6 +17,7 @@ import 'package:test2/pages/teacher.dart';
 import 'package:test2/pages/telegram_page.dart';
 import 'package:test2/pages/tiktok/tiktok_slide_show.dart';
 import 'package:test2/pages/api_good_random_user/random_user_pages.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: RRandomUserPages(),
+      home: JsonPhotoPage(),
     );
   }
 }
